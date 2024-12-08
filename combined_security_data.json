@@ -1,0 +1,7 @@
+{
+    "frequent_failed_logins": {},
+    "threat_matches": {
+        "192.168.1.11": 4,
+        "10.0.0.15": 1
+    }
+}
